@@ -1,0 +1,30 @@
+{
+  "$collectionId": "66c0c6ee002665e0ab83",
+  "$createdAt": "2024-08-20T18:44:08.166+00:00",
+  "$databaseId": "66c0c678000251cfdece",
+  "$id": "66c4e3f7002f811a147b",
+  "$permissions": [],
+  "$tenant": "186629",
+  "$updatedAt": "2024-08-20T18:44:08.166+00:00",
+  "creater": {
+    "$collectionId": "66c0c6bf002dd6b34a5a",
+    "$createdAt": "2024-08-20T17:41:28.218+00:00",
+    "$databaseId": "66c0c678000251cfdece",
+    "$id": "66c4d5483480f7fa2076",
+    "$permissions": [
+      "read(\"user:66c4d540102b4a6ce67c\")",
+      "update(\"user:66c4d540102b4a6ce67c\")",
+      "delete(\"user:66c4d540102b4a6ce67c\")"
+    ],
+    "$tenant": "186629",
+    "$updatedAt": "2024-08-20T17:41:28.218+00:00",
+    "accountId": "66c4d540102b4a6ce67c",
+    "avatar": "https://cloud.appwrite.io/v1/avatars/initials?name=zakisu&project=66c0c583002586376676",
+    "email": "zakisudev@gmail.com",
+    "username": "zakisu"
+  },
+  "prompt": "Playing with paint and drawing a ladder",
+  "thumbnail": "https://e7.pngegg.com/pngimages/611/995/png-clipart-wood-ladder-cartoon-cartoon-painted-wooden-ladder-watercolor-painting-cartoon-character-thumbnail.png",
+  "title": "Playing with paint",
+  "video": "https://youtube.com/shorts/mDDmu-znsiI?si=L2lQh1qNKPkmC-Lb"
+}
