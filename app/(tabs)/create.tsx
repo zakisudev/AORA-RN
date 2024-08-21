@@ -47,9 +47,9 @@ const Create = () => {
     if (!result.canceled) {
       if (selectType === 'image') {
         setForm({ ...form, thumbnail: result.assets[0] });
+      } else {
+        setForm({ ...form, video: result.assets[0] });
       }
-    } else {
-      setForm({ ...form, video: result.assets[0] });
     }
   };
 
